@@ -43,5 +43,5 @@ FocusGuard is actively expanding beyond basic game management. Upcoming releases
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/focus-guard-game.git](https://github.com/YOUR_USERNAME/focus-guard-game.git)
+   git clone [git@github.com:Nurbolat01/FocusGuard.git]
    cd focus-guard-game
